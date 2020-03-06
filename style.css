@@ -1,0 +1,70 @@
+@@ -0,0 +1,38 @@
+body {
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.at {
+    background-color: white;
+}
+
+.font1 {
+    font-family: HelveticaLTStd-Roman, AdobeInvisFont, MyriadPro-Regular;
+    font-size: 12pt;
+    color: rgba(76, 80, 93, 255);
+    text-align: center;
+}
+
+.color00 {
+    background-color: #00d089;
+    padding-top: 5%;
+}
+
+.dhavan {
+    font-family: HelveticaLTStd-Bold, AdobeInvisFont, MyriadPro-Regular;
+    font-size: 26pt;
+    color: rgba(228, 228, 228, 255);
+    text-align: center;
+    display: flex;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+}
+
+.img2 {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.img01{
+    text-align: center;
+    border-radius:100%;
+   
+}
+.img80{
+    border-radius:50%;
+}
+.qqs{
+    font-family: ﻿HelveticaLTStd-Bold, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+    font-size: 26pt;
+    color: rgba(228, 228, 228, 255);
+    text-align: center;
+}
+.qqa{
+    font-family: ﻿HelveticaLTStd-Bold, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size: 78pt;
+color: rgba(255, 255, 255, 255);
+text-align: center;
+}
+.flex{
+    display: flex;
+    margin-left: 40%;
+}
+.kineh{
+    font-family: ﻿HelveticaLTStd-Light, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size: 18pt;
+color: rgba(255, 255, 255, 255);
+text-align: left;
+text-align: center;
+}
